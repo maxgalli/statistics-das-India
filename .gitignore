@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# combine
+counting_experiments/*.root
+counting_experiments/*.out
+counting_experiments/hzzshape.txt
