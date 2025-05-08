@@ -177,3 +177,8 @@ cython_debug/
 counting_experiments/*.root
 counting_experiments/*.out
 counting_experiments/hzzshape.txt
+
+*.pdf
+statistics_prime/*.root
+statistics_prime/*.out
+statistics_prime/*.txt
