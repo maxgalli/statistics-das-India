@@ -22,3 +22,14 @@ cd ../..
 
 # Build the environment
 scram b -j
+```
+## 🧪 Step 1: Fitting the Signal and Backgrounds
+To fit the simulated Z→μμ signal and relevant backgrounds, and to generate the necessary datacards, run:
+```bash
+source runFit.csh
+```
+## 📤 Step 2: Extraction of Results
+After generating the datacards, run the following script to create Combine workspaces and perform statistical fits:
+```bash
+source runWorkspace.csh
+```
