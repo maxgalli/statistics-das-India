@@ -182,3 +182,7 @@ counting_experiments/hzzshape.txt
 statistics_prime/*.root
 statistics_prime/*.out
 statistics_prime/*.txt
+
+template_fits/*.root
+template_fits/*.out
+template_fits/*.txt
