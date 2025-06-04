@@ -43,6 +43,8 @@ and create/activate an environment where we install combine
 pixi init combine
 cd combine
 pixi add cms-combine
+pixi add jupyterlab
+pixi add matplotlib
 pixi shell
 ```
 
