@@ -45,6 +45,7 @@ cd combine
 pixi add cms-combine
 pixi add jupyterlab
 pixi add matplotlib
+pixi add scipy
 pixi shell
 ```
 
